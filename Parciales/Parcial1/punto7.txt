@@ -1,0 +1,5 @@
+name
+code
+localname
+
+Ya que el nombre, código y nombre local de cada pais es único

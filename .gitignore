@@ -1,0 +1,5 @@
+TOMCAT_HOME
+apache-tomcat-9.0.26.tar.gz
+Diapositivas/*
+*.exe
+*.out

@@ -1,0 +1,2 @@
+createdb tarea1
+psql -d tarea1 -f wrold.sql

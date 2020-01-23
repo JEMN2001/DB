@@ -1,0 +1,12 @@
+c) F {
+ID_paciente -> nombre, apellido, fecha_ingreso, fecha_salida;
+ID_paciente, Num_chequeo, ID_medico -> Diagnostico
+}
+
+d) Superllaves:
+	Paciente: ID
+	Chequeo: ID_paciente, Num_chequeo, ID_medico
+	Medico: ID
+
+e) El modelo si está en 2da forma normal
+f) por (e) el modelo está en 3ra forma tambien.

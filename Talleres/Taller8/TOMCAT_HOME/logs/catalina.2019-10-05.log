@@ -1,0 +1,88 @@
+05-Oct-2019 08:31:26.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.26
+05-Oct-2019 08:31:26.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 16 2019 15:51:39 UTC
+05-Oct-2019 08:31:26.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.26.0
+05-Oct-2019 08:31:26.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Oct-2019 08:31:26.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.0.0-29-generic
+05-Oct-2019 08:31:26.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Oct-2019 08:31:26.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+05-Oct-2019 08:31:26.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
+05-Oct-2019 08:31:26.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+05-Oct-2019 08:31:26.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME
+05-Oct-2019 08:31:26.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/conf/logging.properties
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/temp
+05-Oct-2019 08:31:26.872 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+05-Oct-2019 08:31:27.428 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Oct-2019 08:31:27.509 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+05-Oct-2019 08:31:27.512 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1,102] milliseconds
+05-Oct-2019 08:31:27.601 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Oct-2019 08:31:27.602 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.26]
+05-Oct-2019 08:31:27.639 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/host-manager]
+05-Oct-2019 08:31:27.884 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/host-manager] has finished in [246] ms
+05-Oct-2019 08:31:27.885 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/manager]
+05-Oct-2019 08:31:27.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/manager] has finished in [16] ms
+05-Oct-2019 08:31:27.901 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/examples]
+05-Oct-2019 08:31:28.034 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/examples] has finished in [134] ms
+05-Oct-2019 08:31:28.034 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/ROOT]
+05-Oct-2019 08:31:28.042 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/ROOT] has finished in [8] ms
+05-Oct-2019 08:31:28.042 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/docs]
+05-Oct-2019 08:31:28.049 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/docs] has finished in [7] ms
+05-Oct-2019 08:31:28.051 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Oct-2019 08:31:28.065 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+05-Oct-2019 08:31:28.073 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [561] milliseconds
+05-Oct-2019 08:32:26.053 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Oct-2019 08:32:26.054 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Oct-2019 08:32:26.060 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+05-Oct-2019 08:32:26.065 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Oct-2019 08:32:26.104 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Oct-2019 08:32:26.105 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+05-Oct-2019 08:32:26.113 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Oct-2019 08:32:26.113 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+05-Oct-2019 08:44:44.455 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.26
+05-Oct-2019 08:44:44.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 16 2019 15:51:39 UTC
+05-Oct-2019 08:44:44.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.26.0
+05-Oct-2019 08:44:44.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Oct-2019 08:44:44.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.0.0-29-generic
+05-Oct-2019 08:44:44.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Oct-2019 08:44:44.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+05-Oct-2019 08:44:44.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
+05-Oct-2019 08:44:44.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+05-Oct-2019 08:44:44.457 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME
+05-Oct-2019 08:44:44.457 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME
+05-Oct-2019 08:44:44.457 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/conf/logging.properties
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/temp
+05-Oct-2019 08:44:44.458 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+05-Oct-2019 08:44:44.605 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Oct-2019 08:44:44.651 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+05-Oct-2019 08:44:44.652 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [296] milliseconds
+05-Oct-2019 08:44:44.665 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Oct-2019 08:44:44.665 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.26]
+05-Oct-2019 08:44:44.675 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/host-manager]
+05-Oct-2019 08:44:44.792 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/host-manager] has finished in [117] ms
+05-Oct-2019 08:44:44.792 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/manager]
+05-Oct-2019 08:44:44.806 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/manager] has finished in [13] ms
+05-Oct-2019 08:44:44.806 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/examples]
+05-Oct-2019 08:44:44.926 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/examples] has finished in [120] ms
+05-Oct-2019 08:44:44.926 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/test]
+05-Oct-2019 08:44:44.954 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/test] has finished in [28] ms
+05-Oct-2019 08:44:44.954 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/ROOT]
+05-Oct-2019 08:44:44.961 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/ROOT] has finished in [7] ms
+05-Oct-2019 08:44:44.961 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/docs]
+05-Oct-2019 08:44:44.968 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/lovelace/Desktop/DB/Talleres/Taller8/TOMCAT_HOME/webapps/docs] has finished in [7] ms
+05-Oct-2019 08:44:44.970 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Oct-2019 08:44:44.982 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+05-Oct-2019 08:44:44.984 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [331] milliseconds
